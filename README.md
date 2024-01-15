@@ -1,2 +1,2 @@
 # JWT-Authentication
-JWT authentication with a PostgreSQL
+JWT authentication with PostgreSQL
